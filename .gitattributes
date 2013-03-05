@@ -1,1 +1,2 @@
 * text=auto !eol
+ant_lib/ivy-2.3.0.jar -text
