@@ -2,6 +2,10 @@
 /.checkstyle -text
 /.classpath -text
 /.project -text
+.settings/org.eclipse.core.resources.prefs -text svneol=unset#text/plain
+.settings/org.eclipse.jdt.core.prefs -text svneol=unset#text/plain
+.settings/org.eclipse.jdt.launching.prefs -text svneol=unset#text/plain
+.settings/org.eclipse.jdt.ui.prefs -text svneol=unset#text/plain
 /LICENSE.txt -text
 ant_lib/ivy-2.3.0.jar -text
 /build-patternset.xml -text
