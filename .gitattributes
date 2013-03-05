@@ -15,8 +15,13 @@ ant_lib/ivy-2.3.0.jar -text
 /ivy.xml -text
 /ivysettings.xml -text
 /pom.template.xml -text
+/readme.txt -text svneol=unset#text/plain
 src/org/wetator/ant/AntOutProgressListener.java -text
 src/org/wetator/ant/Version.java -text
 src/org/wetator/ant/Wetator.java -text
 test/checkstyle/checkstyle.xml -text
 test/checkstyle/test-checkstyle.xml -text
+test/findbugs/excludeFilter.xml -text svneol=unset#text/plain
+test/pmd/wet-logging-jakarta-commons.xml -text svneol=unset#text/plain
+test/pmd/wet-optimizations.xml -text svneol=unset#text/plain
+test/pmd/wet-strings.xml -text svneol=unset#text/plain
