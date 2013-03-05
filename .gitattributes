@@ -1,2 +1,10 @@
 * text=auto !eol
+/LICENSE.txt -text
 ant_lib/ivy-2.3.0.jar -text
+/build-patternset.xml -text
+/build-properties.xml -text
+/build.properties -text
+/build.xml -text
+/ivy.xml -text
+/ivysettings.xml -text
+/pom.template.xml -text
