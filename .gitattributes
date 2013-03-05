@@ -1,4 +1,7 @@
 * text=auto !eol
+/.checkstyle -text
+/.classpath -text
+/.project -text
 /LICENSE.txt -text
 ant_lib/ivy-2.3.0.jar -text
 /build-patternset.xml -text
@@ -8,3 +11,8 @@ ant_lib/ivy-2.3.0.jar -text
 /ivy.xml -text
 /ivysettings.xml -text
 /pom.template.xml -text
+src/org/wetator/ant/AntOutProgressListener.java -text
+src/org/wetator/ant/Version.java -text
+src/org/wetator/ant/Wetator.java -text
+test/checkstyle/checkstyle.xml -text
+test/checkstyle/test-checkstyle.xml -text
