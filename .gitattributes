@@ -30,21 +30,3 @@ test/findbugs/excludeFilter.xml -text svneol=unset#text/plain
 test/pmd/wet-logging-jakarta-commons.xml -text svneol=unset#text/plain
 test/pmd/wet-optimizations.xml -text svneol=unset#text/plain
 test/pmd/wet-strings.xml -text svneol=unset#text/plain
-xsl/images/collapseall.png -text
-xsl/images/collapselog.png -text
-xsl/images/error.png -text
-xsl/images/expandall.png -text
-xsl/images/expandlog.png -text
-xsl/images/failure.png -text
-xsl/images/firefox.png -text
-xsl/images/ie8.png -text
-xsl/images/log_info.png -text
-xsl/images/log_warn.png -text
-xsl/images/next.png -text
-xsl/images/none.png -text
-xsl/images/ok.png -text
-xsl/images/previous.png -text
-xsl/images/response.png -text
-xsl/images/top.png -text
-xsl/images/wetator.png -text
-xsl/run_report.xsl -text svneol=unset#text/plain
