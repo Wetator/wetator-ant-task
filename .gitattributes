@@ -20,8 +20,10 @@ ant_lib/ivy-2.4.0.jar -text
 /readme.txt -text svneol=unset#text/plain
 samples/ant/build.xml -text svneol=unset#text/plain
 samples/google_search/google.wet -text
+samples/google_search/google.wett -text
 samples/google_search/google.xls -text
 samples/google_search/wetator.config -text
+samples/js_filter.cfg -text
 samples/wetator.config -text
 src/org/wetator/ant/AntOutProgressListener.java -text
 src/org/wetator/ant/Version.java -text
