@@ -2,4 +2,5 @@
 /deploy
 lib/*.jar
 lib_src/*.jar
+/logs
 xsl/*
