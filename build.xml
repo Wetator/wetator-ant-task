@@ -634,7 +634,7 @@
         </ivy:makepom>
 
         <!-- generate ant distribution zip -->
-        <zip destfile="${dir.deploy}/${application.jar-basename}_${application.version}.zip">
+        <zip destfile="${dir.deploy}/${application.jar-basename}-${application.version}.zip">
             <zipfileset dir="${dir.build}" prefix="lib" >
                 <include name="${application.jar-basename}.jar" />
             </zipfileset>
