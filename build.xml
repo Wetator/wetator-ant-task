@@ -244,6 +244,8 @@
         <ivy:resolve conf="default, master, compile, provided, runtime, test, optional" />
         <ivy:retrieve pattern="${dir.lib}${ivy.retrieve.pattern}" sync="true" type="jar,bundle,orbit" />
 
+        <!-- a bit strage but delete fails if the dir is not there at all and git ignores empty dirs -->
+        <mkdir dir="${dir.xsl}" />
         <delete includeemptydirs="true">
             <fileset dir="${dir.xsl}" includes="**/*"/>
         </delete>
