@@ -32,7 +32,7 @@
     </publications>
 
     <dependencies defaultconfmapping="sources->sources;test->default,provided;%->default" defaultconf="compile,sources">
-        <dependency org="org.apache.ant" name="ant" rev="1.9.2" transitive="false" />
-        <dependency org="org.wetator" name="wetator" rev="1.18.0" changing="true" />
+        <dependency org="org.apache.ant" name="ant" rev="1.10.12" transitive="false" />
+        <dependency org="org.wetator" name="wetator" rev="2.0.0" changing="true" />
     </dependencies>
 </ivy-module>
