@@ -62,13 +62,13 @@
     </developers>
 
     <scm>
-        <connection>scm:svn:http://wetator.repositoryhosting.com/svn_public/wetator_wetator/trunk/wetator-ant-task</connection>
-        <developerConnection>scm:svn:https://wetator.repositoryhosting.com/svn/wetator_wetator/trunk/wetator-ant-task</developerConnection>
-        <url>http://wetator.repositoryhosting.com/svn_public/wetator_wetator</url>
+        <connection>scm:git:https://github.com/Wetator/wetator-ant-task</connection>
+        <developerConnection>scm:git:https://github.com/Wetator/wetator-ant-task</developerConnection>
+        <url>https://github.com/Wetator/wetator-ant-task</url>
     </scm>
     <issueManagement>
         <system>trac</system>
-        <url>https://wetator.repositoryhosting.com/trac/wetator_wetator/report/1</url>
+        <url>https://github.com/Wetator/wetator-ant-task/issues/</url>
     </issueManagement>
     <ciManagement>
         <system>jenkins</system>
