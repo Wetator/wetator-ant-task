@@ -33,6 +33,7 @@
 
     <dependencies defaultconfmapping="sources->sources;test->default,provided;%->default" defaultconf="compile,sources">
         <dependency org="org.apache.ant" name="ant" rev="1.10.12" transitive="false" />
-        <dependency org="org.wetator" name="wetator" rev="3.0.0" changing="true" />
+        <dependency org="org.wetator" name="wetator" rev="3.5.0" changing="true" />
+        <dependency org="commons-logging" name="commons-logging" rev="1.2" changing="true" />
     </dependencies>
 </ivy-module>
